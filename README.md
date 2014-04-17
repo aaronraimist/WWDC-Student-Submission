@@ -1,7 +1,7 @@
 WWDC '14 Scholarship Submission
 =======================
 
-Hello everybody, this is my submission for the <a href="https://developer.apple.com/wwdc/students/">WWDC Student Scholarship</a> for 2014. This includes the Xcode Project and all code written for this application as well as the PSD's for the Graphic User Interface. Please give credit to <b>Douglas Bumby</b> when using the content within this Repository. Thanks for your interest!
+Hello everybody, this is my submission for the <a href="https://developer.apple.com/wwdc/students/">WWDC Student Scholarship</a> for 2014. This includes the Xcode Project and all code written for this application. If you are interested in obtaining the PSD's of the GUI, please <b>@mention</b> me on twitter, <a href="http://www.twitter.com/istx25">Here</a>. Please give credit to <b>Douglas Bumby</b> when using the content within this Repository. Thanks for your interest!
 
 <b>Copyright (c) 2014 Douglas Bumby</b>
 
