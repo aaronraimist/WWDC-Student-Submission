@@ -1,0 +1,27 @@
+#import <Availability.h>
+
+// Fix iPhone Support Errors.
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+// Define the Slide Titles
+#define INTRODUCTION @"IntroductionViewController"
+#define WHO @"WhoViewController"
+#define AGE @"Age"
+#define DEVOTION @"DevotionView"
+#define IPHONE @"iPhone"
+#define MACBOOK @"MacBookPro"
+#define LEARNING @"Learning"
+#define CURRENT_PROJECTS @"CurrentProjectsView"
+#define EXPERIMENTS @"Experiments"
+#define WHY_WWDC @"WhyWWDCView"
+/* #define ANYTHING_FOR_WWDC @"ANYTHING" */
+#define THANK_YOU @"ThankYouView"
+
+#define IS_IPHONE_5 ([UIScreen mainScreen].bounds.size.height == 568.0)
